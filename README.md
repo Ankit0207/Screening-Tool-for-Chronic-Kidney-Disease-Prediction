@@ -2,7 +2,7 @@
 Screening Tool for Chronic Kidney Disease Prediction
 
 ### Table of contents
-* [Introduction](#introduction1)
+* [Introduction](#introduction)
 * [Technologies](#technologies)
 * [Algorithms](#algorithms)
 * [Approach](#approach)
